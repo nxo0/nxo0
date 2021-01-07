@@ -4,9 +4,9 @@
 
 ## 好きな言語
 
-Python ❤ NIXO
+**Python** ❤ NIXO
 
-JavaScript ❤ NIXO
+**JavaScript** ❤ NIXO
 
 因みにJSは好きですがそんなかけません🥺🥺
 
