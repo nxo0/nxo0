@@ -1,35 +1,24 @@
-# にーくん/NIXO
+# にくそ/NIXO
 
-にーくんって名前でTwitterしてるけどほぼ **NIXO** がメインの名前になってる気がするにくそです。
+にーくんって名前もありますがほぼにくそです😇
 
-## 好きな言語
+![](https://img.shields.io/badge/age-15-red) ![](https://img.shields.io/badge/birthday-2005%2F10%2F11-red) ![](https://img.shields.io/badge/Python-%E2%9D%A4-brightgreen)
 
-**Python** ❤ NIXO
+## Project
 
-**JavaScript** ❤ NIXO
+- [Doto](https://github.com/doto-pj)
 
-因みにJSは好きですがそんなかけません🥺🥺
+## Favorite Langage
 
-かなしいです。勉強します。
+- Python
 
-## なんとなーくわかるやつ
-
-Java
-
-Ruby
-
-## おべんきょしたいやつ
-
-Go
-
-TypeScript
-
-PHP(Laravel)
+- Go
 
 
-## 最後に
-ポートフォリオあるのでよければ見ていただけると嬉しいです。
+## Portfolio
 
-[Portfolio](https://nixo.jp/)
+このサイト見てね
 
-![](https://komarev.com/ghpvc/?username=NIKUNzero)
+https://nixo.jp/
+
+![](https://komarev.com/ghpvc/?username=nxo0)
