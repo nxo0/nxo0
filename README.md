@@ -23,4 +23,4 @@ https://nixo.jp/
 
 ![](https://komarev.com/ghpvc/?username=nxo0)
 
-![]
+![](https://raw.githubusercontent.com/nxo0/nxo0/main/slide-summary.png)
