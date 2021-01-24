@@ -12,6 +12,8 @@
 
 - Rust(学習中)
 
+- フロントエンド(JavaScript、NextJSとか)※一応出来るけど全然詳しくない
+
 ## Buy me a coffee
 
 coffee奢ってください😘
