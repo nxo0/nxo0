@@ -24,6 +24,8 @@ coffee奢ってください😘
 
 [![](https://raw.githubusercontent.com/nxo0/nxo0/be22570023e56121ad4849c4781b9abbccaea395/BMC%20logo%2Bwordmark%20-%20White.svg)](https://buymeacoffee.com/nxo0)
 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=nxo0)
+
 
 ## Portfolio
 
