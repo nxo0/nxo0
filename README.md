@@ -14,7 +14,7 @@
 
 - フロントエンド(JavaScript、NextJSとか)※一応出来るけど全然詳しくない
 
-[!GitHub stats](https://github-readme-stats.vercel.app/api?username=nxo0)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=nxo0)
 
 ## Buy me a coffee
 
