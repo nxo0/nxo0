@@ -14,6 +14,8 @@
 
 - フロントエンド(JavaScript、NextJSとか)※一応出来るけど全然詳しくない
 
+[!GitHub stats](https://github-readme-stats.vercel.app/api?username=nxo0)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Buy me a coffee
 
 coffee奢ってください😘
