@@ -16,7 +16,7 @@
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=nxo0)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=zizi4n5)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxo0)
 
 ## Buy me a coffee
 
