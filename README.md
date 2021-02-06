@@ -12,7 +12,17 @@
 
 - Rust(学習中)
 
+- Java(学習中)
+
+- Kotlin(学習中)
+
 - フロントエンド(JavaScript、NextJSとか)※一応出来るけど全然詳しくない
+
+**学　習　中　が　多　い**
+
+まぁ今やってるプロジェクト+学校に行ってるので時間が...
+
+中学卒業したら起きてる時間の7割程はプログラムの学習に使えるのでがんばります＾＾
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=nxo0)
 
