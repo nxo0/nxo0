@@ -2,6 +2,10 @@
 
 ![](https://img.shields.io/badge/age-15-red) ![](https://img.shields.io/badge/birthday-2005%2F10%2F11-red) ![](https://img.shields.io/badge/Python-%E2%9D%A4-brightgreen)
 
+Hi, I'm NIXO, a Japanese programmer.
+
+i like new and interesting technologies.
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxo0)
 
 ## Buy me a coffee
