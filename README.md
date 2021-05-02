@@ -10,6 +10,8 @@ i like new and interesting technologies.
 
 https://nixo.jp/
 
+## Other
+
 ![](https://komarev.com/ghpvc/?username=nxo0)
 
 [Buy me a coffee](https://buymeacoffee.com/nxo0)
