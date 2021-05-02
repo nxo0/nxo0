@@ -6,15 +6,10 @@ Hi, I'm NIXO, a Japanese programmer.
 
 i like new and interesting technologies.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=nxo0)
-
-## Buy me a coffee
-
-[![](https://raw.githubusercontent.com/nxo0/nxo0/be22570023e56121ad4849c4781b9abbccaea395/BMC%20logo%2Bwordmark%20-%20White.svg)](https://buymeacoffee.com/nxo0)
-
-
 ## Portfolio
 
 https://nixo.jp/
 
 ![](https://komarev.com/ghpvc/?username=nxo0)
+
+[Buy me a coffee](https://buymeacoffee.com/nxo0)
